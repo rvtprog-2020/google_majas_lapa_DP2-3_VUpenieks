@@ -1,0 +1,66 @@
+ul.everything {
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+ul {
+    list-style: none;
+  }
+.nav1 { 
+    left: 84%;
+    position:absolute;
+     top: 2%;
+     height:60px; 
+}
+.something {
+    left: 90%;
+    position:absolute;
+    top: 0%;
+}
+.nav2 { 
+    left: 87%;
+    position:absolute;
+     top: 2%;
+     height:60px; 
+}
+.searcher2 {
+    margin: auto;
+  width: 45%;
+  padding: 12px;
+}
+.searcher1 {
+    margin:auto;
+    left:30%;
+    width: 37%;
+    top: 40%;
+    position: absolute;
+}
+.buttons {
+    margin:auto;
+    left:38%;
+    width: 37%;
+    top: 48%;
+    position: absolute;
+}
+.valoda {
+    margin:auto;
+    left:38%;
+    width: 37%;
+    top: 51%;
+    position: absolute;
+}
+.support1 {
+    background-color: whitesmoke;
+    border: 1px solid black;
+    right:0%;
+    position:absolute;
+    bottom:0;
+    width:100%;
+    height:30px;
+}
+.support2 {
+    left: 90%;
+    position:absolute;
+    bottom:0;
+    height:30px;
+}
